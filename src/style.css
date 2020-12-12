@@ -1,0 +1,13 @@
+.mainDiv{
+    display: flex;
+}
+.leftNav{
+    flex:16%;
+    background-color: aquamarine;
+    height: 1000px;
+}
+.rightNav{
+    flex:84%;
+    background-color: #eee;
+    height: 1000px;
+}
